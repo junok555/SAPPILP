@@ -1625,3 +1625,13 @@ section {
   font-size: 34px;
   color: #123a6d;
 }
+
+
+@media only screen and (max-width: 750px) {
+  .company-name-title {
+    padding-left: initial; 
+    font-weight: bolder;
+    font-size: 28px;
+    color: #123a6d;
+  }
+}
